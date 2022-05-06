@@ -10,62 +10,62 @@ import javax.swing.UIManager;
 import javax.swing.plaf.ColorUIResource;
 
 public class TreeLabel extends JLabel {
-	boolean isSelected;
-	boolean hasFocus;
 
-	public TreeLabel() {
-	}
+    private static final long serialVersionUID = -5313596501751307122L;
+    boolean isSelected;
+    boolean hasFocus;
 
-	public void setBackground(Color color) {
-		if (color instanceof ColorUIResource) color = null;
-		super.setBackground(color);
-	}
+    public TreeLabel() {
+    }
 
-	public void paint(Graphics g) {
-		String str;
-		if ((str = getText()) != null) {
-			if (0 < str.length()) {
-				if (isSelected) {
-					g.setColor(UIManager.getColor("Tree.selectionBackground"));
-				} else {
-					g.setColor(UIManager.getColor("Tree.textBackground"));
-				}
-				Dimension d = getPreferredSize();
-				int imageOffset = 0;
-				Icon currentI = getIcon();
-				if (currentI != null) {
-					imageOffset = currentI.getIconWidth()+ Math.max(0, getIconTextGap() - 1);
-				}
+    public void setBackground(Color color) {
+        if (color instanceof ColorUIResource)
+            color = null;
+        super.setBackground(color);
+    }
 
-				g.fillRect(imageOffset, 0, d.width - 1 - imageOffset,
-				d.height);
-				if (hasFocus) {
-					g.setColor(UIManager.getColor("Tree.selectionBorderColor"));
-					g.drawRect(imageOffset, 0, d.width - 1 - imageOffset,
-					d.height - 1);
-				}
-			}
-		}
-		super.paint(g);
-	}
+    public void paint(Graphics g) {
+        String str;
+        if ((str = getText()) != null) {
+            if (0 < str.length()) {
+                if (isSelected) {
+                    g.setColor(UIManager.getColor("Tree.selectionBackground"));
+                } else {
+                    g.setColor(UIManager.getColor("Tree.textBackground"));
+                }
+                Dimension d = getPreferredSize();
+                int imageOffset = 0;
+                Icon currentI = getIcon();
+                if (currentI != null) {
+                    imageOffset = currentI.getIconWidth() + Math.max(0, getIconTextGap() - 1);
+                }
 
-	public Dimension getPreferredSize() {
-		Dimension retDimension = super.getPreferredSize();
-		if (retDimension != null) {
-			retDimension = new Dimension(retDimension.width + 3,
-			retDimension.height);
-		}
+                g.fillRect(imageOffset, 0, d.width - 1 - imageOffset, d.height);
+                if (hasFocus) {
+                    g.setColor(UIManager.getColor("Tree.selectionBorderColor"));
+                    g.drawRect(imageOffset, 0, d.width - 1 - imageOffset, d.height - 1);
+                }
+            }
+        }
+        super.paint(g);
+    }
 
-		return retDimension;
-	}
+    public Dimension getPreferredSize() {
+        Dimension retDimension = super.getPreferredSize();
+        if (retDimension != null) {
+            retDimension = new Dimension(retDimension.width + 3, retDimension.height);
+        }
 
-	public void setSelected(boolean isSelected) {
-		this.isSelected = isSelected;
-	}
+        return retDimension;
+    }
 
-	public void setFocus(boolean hasFocus) {
-		this.hasFocus = hasFocus;
-	}
+    public void setSelected(boolean isSelected) {
+        this.isSelected = isSelected;
+    }
+
+    public void setFocus(boolean hasFocus) {
+        this.hasFocus = hasFocus;
+    }
 
 }
 

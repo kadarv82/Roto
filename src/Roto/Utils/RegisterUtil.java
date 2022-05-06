@@ -1,18 +1,13 @@
 package Roto.Utils;
 
-import java.io.Console;
 import java.io.File;
 import java.net.InetAddress;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.prefs.Preferences;
 
-import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.JTextPane;
-import javax.swing.filechooser.FileSystemView;
-
-import sun.reflect.generics.visitor.Reifier;
 
 import Roto.Basic.SwingConstans;
 import Roto.DataBase.SerializedRegistration;
