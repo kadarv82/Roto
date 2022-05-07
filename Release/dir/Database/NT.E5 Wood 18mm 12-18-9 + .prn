@@ -1,0 +1,632 @@
+1NSAP     MARTIKEL     IRMTEXT                                        MDK     MDF     MDS     MKIPP   ZáSzíMSSTK   MSISSTK MFFBV   MFFBB   MFFHV   MFFHB   MSTART      MSISTART    ANZEIGENMDK2    MDF2    MDS2    MFREIHUF
+1 284314                 B-NY.RÚDZÁR K 370/120 D15                    HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     480                             IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 259830  .N150A02006    B-NY.RÚDZ. K  490/ 170    NT .N150A02006     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    481     600                             HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 259831  .N150A03006    B-NY.RÚDZ. K  690/ 263    NT .N150A03006     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    601     800                             HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    801     1000                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    1001    1200                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    1201    1400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    1401    1600                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    1601    1800                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    1801    2000                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    2001    2200                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    2201    2400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 284314                 B-NY.RÚDZÁR K 370/120 D15                    IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     1600    280     480     M260360                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 259830  .N150A02006    B-NY.RÚDZ. K  490/ 170    NT .N150A02006     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     1600    481     600     M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259831  .N150A03006    B-NY.RÚDZ. K  690/ 263    NT .N150A03006     IGAZ    HAMIS   HAMIS   HAMIS        1       0       290     1600    601     800     M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     IGAZ    HAMIS   HAMIS   HAMIS        1       0       290     1600    801     1000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     IGAZ    HAMIS   HAMIS   HAMIS        1       0       290     1600    1001    1200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     IGAZ    HAMIS   HAMIS   HAMIS        1       0       290     1600    1201    1400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     IGAZ    HAMIS   HAMIS   HAMIS        2       0       290     1600    1401    1600    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     IGAZ    HAMIS   HAMIS   HAMIS    0   2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     IGAZ    HAMIS   HAMIS   HAMIS    0   2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     IGAZ    HAMIS   HAMIS   HAMIS    0   2       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     IGAZ    HAMIS   HAMIS   HAMIS    0   2       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+0 260360  .N701A10106    ZÁRÓDB.H               18    .N701A10106     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 284314                 B-NY.RÚDZÁR K 370/120 D15                    HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     480                             IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 259830  .N150A02006    B-NY.RÚDZ. K  490/ 170    NT .N150A02006     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    481     600                             HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 259831  .N150A03006    B-NY.RÚDZ. K  690/ 263    NT .N150A03006     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    601     800                             HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    801     1000                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    1001    1200                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    1201    1400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    1401    1600                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    1601    1800                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    1801    2000                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    2001    2200                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     HAMIS   HAMIS   HAMIS   HAMIS    0   0       0       290     1600    2201    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 260129  .N210A01206    PEREMRÚDZÁR M  180 1E D15 NT .N210A01206     HAMIS   HAMIS   HAMIS   IGAZ         1       0       210     300     280     2400    M260360                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 260130  .N210A02206    PEREMRÚDZÁR M  500 1E D15 NT .N210A02206     HAMIS   HAMIS   HAMIS   IGAZ         1       0       301     500     280     2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 260131  .N210A03206    PEREMRÚDZÁR M  800 2E D15 NT .N210A03206     HAMIS   HAMIS   HAMIS   IGAZ         2       0       501     800     280     2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 260132  .N210A04206    PEREMRÚDZÁR M 1100 3E D15 NT .N210A04206     HAMIS   HAMIS   HAMIS   IGAZ         3       0       801     1100    280     2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 260133  .N210A05206    PEREMRÚDZÁR M 1400 3E D15 NT .N210A05206     HAMIS   HAMIS   HAMIS   IGAZ         3       0       1101    1400    280     2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 260134  .N210A06206    PEREMRÚDZÁR M 1800 4E D15 NT .N210A06206     HAMIS   HAMIS   HAMIS   IGAZ         4       0       1401    1600    280     2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+0 260135  .N210A07206    PEREMRÚDZÁR M 2400 4E D15 NT .N210A07206     HAMIS   HAMIS   HAMIS   IGAZ         0       0       1600    1600    280     2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 331942                 SZPER.RÚDZÁR 7/8  490/195 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    431     600                             IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 331943                 SZPER.RÚDZÁR 7/8  690/335 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    601     800                             HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331964                 SZPER.RÚDZÁR 7/8  890/490 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    801     1000                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331965                 SZPER.RÚDZÁR 7/8  1090/335 NT                HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    1001    1200                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331966                 SZPER.RÚDZÁR 7/8 1290/335 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    1201    1400                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331967                 SZPER.RÚDZÁR 7/8 1490/335 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    1401    1600                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331968                 SZPER.RÚDZÁR 7/8 1690/335 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    1601    1800                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331969                 SZPER.RÚDZÁR 7/8 1890/335 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    1801    2000                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331970                 SZPER.RÚDZÁR 7/8 2090/640 NT                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    2001    2200                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331971                 SZÁRNYPEREM RÚDZÁR 7/8 2290/640   NT         HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    2201    2400                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 378425                 Összekötõelem NT 7/8 szárnyperemrúdzárho     HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    431     2400                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 331973                 FELSÕ LEZÁRÓ RÖVID  SZPER. RZ. 7/8   NT      HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    431     2400                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 260189  .N298A03006    PEREMRETESZ 18        NT     .N298A03006     HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    280     430                             IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 260290  .N400A15306    SAROKVÁLTÓ B-NY.   NT        .N400A15306     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     1600    481     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+0 260382  .N702A10106L L BIZT.ZÁRÓDB.H     18        .N702A10106L     HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    280     2400                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+0 260383  .N702A10106R R BIZT.ZÁRÓDB.H       18      .N702A10106R     HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    280     2400                            HAMIS   HAMIS   HAMIS   IGAZ    HAMIS
+1 260201  .N300A01016    OLLÓELÕLAP 150/300 H/K NT    .N300A01016     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     410     280     2400    M260360                 IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 256024  .N300A02016    OLLÓELÕLAP 250/490 H/K NT    .N300A02016     IGAZ    HAMIS   HAMIS   HAMIS        0       0       411     600     280     2400    M260360                 HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 260204  .N300A03016    OLLÓELÕLAP 350/690 H/K NT    .N300A03016     IGAZ    HAMIS   HAMIS   HAMIS        0       0       601     800     280     2400    M260360                 HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 260208  .N300A04216    OLLÓELÕLAP 500/890 1E  NT-K  .N300A04216     IGAZ    HAMIS   HAMIS   HAMIS        1       0       801     1000    280     2400    M260360                 HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 260212  .N300A05216    OLLÓELÕLAP 500/1090 1E K NT  .N300A05216     IGAZ    HAMIS   HAMIS   HAMIS        1       0       1001    1200    280     2400    M260360                 HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 260215  .N300A06216    OLLÓELÕLAP 500/1290 1E H/K NT.N300A06216     IGAZ    HAMIS   HAMIS   HAMIS        1       0       1201    1600    280     2400    M260360                 HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 230187  .N390A03096    OLLÓCSPGY.E512/18-9SL(3600)  .N390A03096     IGAZ    IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 227354  .F710D52026    OLLÓCSAPÁGY CSAP      SL     .F710D52026     IGAZ    IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 449764               L SAROKCS.E512/18-9OZ.NT*200* .N512B03046L     IGAZ    IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 449763               R SAROKCS.E512/18-9OZ.SL.NT.N512B03046R        IGAZ    IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 498319               L HORONY SAROKPÁNT E5 O.NUT 12/18-9 L.NT       IGAZ    IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 498320               R HORONY SAROKPÁNT E5 O.NUT 12/18-9 R.NT       IGAZ    IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 449764               R SAROKCS.E512/18-9OZ.NT*200* .N512B03046L     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 449763               L SAROKCS.E512/18-9OZ.SL.NT.N512B03046R        HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 498319               R HORONY SAROKPÁNT E5 O.NUT 12/18-9 L.NT       HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 498320               L HORONY SAROKPÁNT E5 O.NUT 12/18-9 R.NT       HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 264210  .N693A00036    REJETETT KÖZÉPZ.SZÁRNYR. SL  .N693A00036     HAMIS   IGAZ    IGAZ    HAMIS        0       0       290     1600    801     2400                            IGAZ    HAMIS   IGAZ    IGAZ    HAMIS
+1 264210  .N693A00036    REJETETT KÖZÉPZ.SZÁRNYR. SL  .N693A00036     HAMIS   IGAZ    IGAZ    HAMIS        0       0       290     1600    1801    2400                            IGAZ    HAMIS   IGAZ    IGAZ    HAMIS
+1 264210  .N693A00036    REJETETT KÖZÉPZ.SZÁRNYR. SL  .N693A00036     HAMIS   HAMIS   HAMIS   IGAZ         0       0       801     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+2 230187  .N390A03096    OLLÓCSPGY.E512/18-9SL(3600)  .N390A03096     HAMIS   HAMIS   HAMIS   IGAZ         0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+2 227354  .F710D52026    OLLÓCSAPÁGY CSAP      SL     .F710D52026     HAMIS   HAMIS   HAMIS   IGAZ         0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 244594  .N710A00206    CSAPPANTYÚ STP.FLG.GTR7/8    .N710A00206     HAMIS   HAMIS   IGAZ    HAMIS     cs 0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 256020  .N710A50206    CSAPPANTYÚ CSAP  NT          .N710A50206     IGAZ    IGAZ    IGAZ    HAMIS     cs 0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 260538  .N732A00006    HIBÁS MÛK.GÁTLÓ   NT         .N732A00006     IGAZ    HAMIS   HAMIS   HAMIS     h  0       0       290     1600    601     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 334782                 TOKRÉSZ NSP >600mm SZPER.RZ. 7/8 NT          HAMIS   HAMIS   HAMIS   HAMIS     h  0       0       290     1600    601     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 255237  .N734A03006    MÁSODOLLÓ  NT                .N734A03006     IGAZ    HAMIS   HAMIS   HAMIS        0       0       1401    1600    280     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 264220  .N693A10106    KÖZÉPZÁRÓ VD.RAH.  18 SL     .N693A10106     HAMIS   IGAZ    IGAZ    HAMIS        0       0       290     1600    801     2400                            IGAZ    HAMIS   IGAZ    IGAZ    HAMIS
+1 264220  .N693A10106    KÖZÉPZÁRÓ VD.RAH.  18 SL     .N693A10106     HAMIS   IGAZ    IGAZ    HAMIS        0       0       290     1600    1801    2400                            IGAZ    HAMIS   IGAZ    IGAZ    HAMIS
+1 264220  .N693A10106    KÖZÉPZÁRÓ VD.RAH.  18 SL     .N693A10106     HAMIS   HAMIS   HAMIS   IGAZ         0       0       801     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 230620  .N612A03516    NY.SZÁRNY-H.PÁNT E5 12/18-9 .N612A03516      HAMIS   HAMIS   HAMIS   IGAZ         0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 230622  .N612A03616    NYÍLÓSZ.PÁNT E5 12/18-9 OA.SL.N612A03616     HAMIS   HAMIS   HAMIS   IGAZ         0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 280782               L NT FALC-NYÍLÓSZÁRNYPÁNT E5 12/18-9 BALOS     HAMIS   IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 280783               R NT FALC-NYÍLÓSZÁRNYPÁNT E5 12/18-9 JOBBO     HAMIS   IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 280782               R NT FALC-NYÍLÓSZÁRNYPÁNT E5 12/18-9 BALOS     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 280783               L NT FALC-NYÍLÓSZÁRNYPÁNT E5 12/18-9 JOBBO     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 258072  .N312A03016L L OLLÓSZÁR E5 150 12/18-9 NT  .N312A03016L     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     410     280     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 258073  .N312A03016R R OLLÓSZÁR E5 150 12/18-9 NT  .N312A03016R     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     410     280     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 258074  .N312A03026L L OLLÓSZÁR E5 250 12/18-9 NT  .N312A03026L     IGAZ    HAMIS   HAMIS   HAMIS        0       0       411     600     280     2400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 258075  .N312A03026R R OLLÓSZÁR E5 250 12/18-9 NT  .N312A03026R     IGAZ    HAMIS   HAMIS   HAMIS        0       0       411     600     280     2400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 258076  .N312A03036L L OLLÓSZÁR E5 350 12/18-9 NT  .N312A03036L     IGAZ    HAMIS   HAMIS   HAMIS        0       0       601     800     280     2400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 258077  .N312A03036R R OLLÓSZÁR E5 350 12/18-9 NT  .N312A03036R     IGAZ    HAMIS   HAMIS   HAMIS        0       0       601     800     280     2400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 258078  .N312A03046L L OLLÓSZÁR E5 500 12/18-9 NT  .N312A03046L     IGAZ    HAMIS   HAMIS   HAMIS        0       0       801     1600    280     2400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 258080  .N312A03046R R OLLÓSZÁR E5 500 12/18-9 NT  .N312A03046R     IGAZ    HAMIS   HAMIS   HAMIS        0       0       801     1600    280     2400                            HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 260479  .N711A10106LLL BUKÓCSAPÁGY H    18         .N711A10106L     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 260480  .N711A10106RRR BUKÓCSAPÁGY H    18         .N711A10106R     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     1600    280     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+0 228963  .K606A82008    ATÉT MU.TROCAL,KBEMD,ACTUAL  .K606A82008     IGAZ    HAMIS   HAMIS   HAMIS        0       0       1401    1600    280     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 260459  .N710A10106    CSAPPANTYÚ 18/20             .N710A10106     IGAZ    IGAZ    HAMIS   HAMIS     cs 0       0       290     1600    1801    2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 260540  .N732A10106    HIB.MÛK.GÁTLÓ TOKR.ÁLLÍTH.18 .N732A10106     IGAZ    HAMIS   HAMIS   HAMIS     h  0       0       290     1600    601     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 260450  .N707A10106    ZÁRÓDB.H 2FLG.1L     18      .N707A10106     HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 260450  .N707A10106    ZÁRÓDB.H 2FLG.1L     18      .N707A10106     HAMIS   HAMIS   IGAZ    HAMIS        0       0       290     1600    431     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+0 331488                 NYÍLÓSZÁRNYPÁNT ELÕLAP                       HAMIS   IGAZ    IGAZ    HAMIS        0       0       290     1600    280     2400                            IGAZ    HAMIS   IGAZ    IGAZ    HAMIS
+2 284314                 B-NY.RÚDZÁR K 370/120 D15                    HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    280     480     M260360                 IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+2 259830  .N150A02006    B-NY.RÚDZ. K  490/ 170    NT .N150A02006     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    481     600     M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 259831  .N150A03006    B-NY.RÚDZ. K  690/ 263    NT .N150A03006     HAMIS   HAMIS   HAMIS   HAMIS        0       0       290     1600    601     800     M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     HAMIS   HAMIS   HAMIS   HAMIS        1       0       290     1600    801     1000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        1       0       290     1600    1001    1200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        1       0       290     1600    1201    1400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     HAMIS   HAMIS   HAMIS   HAMIS        2       0       290     1600    1401    1600    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     HAMIS   HAMIS   HAMIS   HAMIS        2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   HAMIS   HAMIS   HAMIS        2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     HAMIS   HAMIS   HAMIS   HAMIS        2       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+2 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     HAMIS   HAMIS   HAMIS   HAMIS        2       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS    IGAZ
+1 284314                 B-NY.RÚDZÁR K 370/120 D15                    HAMIS   IGAZ    HAMIS   HAMIS        0       0       290     1600    280     480     M260360                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 259830  .N150A02006    B-NY.RÚDZ. K  490/ 170    NT .N150A02006     HAMIS   IGAZ    HAMIS   HAMIS        0       0       290     1600    481     600     M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259831  .N150A03006    B-NY.RÚDZ. K  690/ 263    NT .N150A03006     HAMIS   IGAZ    HAMIS   HAMIS        0       0       290     1600    601     800     M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     HAMIS   IGAZ    HAMIS   HAMIS        1       0       290     1600    801     1000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     HAMIS   IGAZ    HAMIS   HAMIS        1       0       290     1600    1001    1200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     HAMIS   IGAZ    HAMIS   HAMIS        1       0       290     1600    1201    1400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     HAMIS   IGAZ    HAMIS   HAMIS        1       0       290     1600    1401    1600    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     HAMIS   IGAZ    HAMIS   HAMIS     0  2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   IGAZ    HAMIS   HAMIS     0  2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     HAMIS   IGAZ    HAMIS   HAMIS     0  2       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     HAMIS   IGAZ    HAMIS   HAMIS     0  2       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 260275  .N400A01206    SAROKVÁLTÓ   NT              .N400A01206     IGAZ    IGAZ    HAMIS   HAMIS        1       0       290     1600    361     2400    M260360                 IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+2 260275  .N400A01206    SAROKVÁLTÓ   NT              .N400A01206     HAMIS   HAMIS   HAMIS   HAMIS        1       0       290     1600    280     2400    M260360                 IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 260280  .N400A11206    SAROKVÁLTÓ RÖVID 1 E  NT     .N400A11206     IGAZ    IGAZ    HAMIS   HAMIS        1       0       290     1600    280     360     M260360                 IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 260290  .N400A15306  L SAROKVÁLTÓ B-NY.   NT        .N400A15306     HAMIS   IGAZ    HAMIS   HAMIS        0       1       290     1600    481     2400                M260360     IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 260290  .N400A15306  R SAROKVÁLTÓ B-NY.   NT        .N400A15306     HAMIS   IGAZ    HAMIS   HAMIS        0       1       290     1600    481     2400                M260360     IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 260286  .N400A13306    SAROKVÁLTÓ OLLÓ  NT          .N400A13306     IGAZ    HAMIS   HAMIS   HAMIS        0       0       290     1600    1101    2400                M260360     IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 255281  .N401A21206    KÖZÉPZÁRÓ 600 1E    NT       .N401A21206     IGAZ    IGAZ    HAMIS   HAMIS        1       0       1101    1600    280     2400    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 255281  .N401A21206    KÖZÉPZÁRÓ 600 1E    NT       .N401A21206     IGAZ    HAMIS   HAMIS   HAMIS        1       0       290     1600    1101    2400    M260360                 HAMIS   IGAZ    HAMIS   IGAZ    HAMIS
+1 255282  .N401A21216    KÖZÉPZÁRÓ 600 1E KB NT       .N401A21216     IGAZ    HAMIS   HAMIS   HAMIS        1       0       290     1600    1801    2400    M260360                 IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+0 228963  .K606A82008    ATÉT MU.TROCAL,KBEMD,ACTUAL  .K606A82008     HAMIS   HAMIS   HAMIS   IGAZ         0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 482823  .N734A01006    HORONYOLLÓ  NT               .N734A01006     HAMIS   HAMIS   HAMIS   IGAZ         0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227801  .K050A11325  k ROTOLINE ABL.KIL.L=35 ARANY  .K050A11325     HAMIS   HAMIS   HAMIS   HAMIS     a  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227801  .K050A11325  k ROTOLINE ABL.KIL.L=35 ARANY  .K050A11325     IGAZ    IGAZ    HAMIS   IGAZ      a  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227788  .K050A10705  k ROTOLINE ABL.KIL.L30 FEHÉR   .K050A10705     HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227788  .K050A10705  k ROTOLINE ABL.KIL.L30 FEHÉR   .K050A10705     IGAZ    IGAZ    HAMIS   IGAZ      f  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227788  .K050A10705  k ROTOLINE ABL.KIL.L30 FEHÉR   .K050A10705     HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227788  .K050A10705  k ROTOLINE ABL.KIL.L30 FEHÉR   .K050A10705     IGAZ    IGAZ    HAMIS   IGAZ      nsz0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227786  .K050A10515  k ROTOLINE ABL.KIL.L30 R041    .K050A10515     HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227786  .K050A10515  k ROTOLINE ABL.KIL.L30 R041    .K050A10515     IGAZ    IGAZ    HAMIS   IGAZ      b  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227905  .K050B10525  k ROTOLINE ABL.KIL L=30 BRONZ  .K050B10525     HAMIS   HAMIS   HAMIS   HAMIS     br 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227905  .K050B10525  k ROTOLINE ABL.KIL L=30 BRONZ  .K050B10525     IGAZ    IGAZ    HAMIS   IGAZ      br 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227899  .K050B10215  k ROTOLINE ABL.KIL L30 R12     .K050B10215     HAMIS   HAMIS   HAMIS   HAMIS     u  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227899  .K050B10215  k ROTOLINE ABL.KIL L30 R12     .K050B10215     IGAZ    IGAZ    HAMIS   IGAZ      u  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227781  .K050A10515  k ROTOLINE ABL.KIL.L30 R041    .K050A10515     HAMIS   HAMIS   HAMIS   HAMIS     t  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227781  .K050A10515  k ROTOLINE ABL.KIL.L30 R041    .K050A10515     IGAZ    IGAZ    HAMIS   IGAZ      t  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227903  .K050B11525  k ROTOLINE ABL.KIL.L=30 R053   .K050B11525     HAMIS   HAMIS   HAMIS   HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227903  .K050B11525  k ROTOLINE ABL.KIL.L=30 R053   .K050B11525     IGAZ    IGAZ    HAMIS   IGAZ      kbr0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227897  .K050B11525  k ROTOLINE ABL.KIL.L=30 R011   .K050B11525     HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227897  .K050B11525  k ROTOLINE ABL.KIL.L=30 R011   .K050B11525     IGAZ    IGAZ    HAMIS   IGAZ      ne 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227901  .K050B11525  k ROTOLINE ABL.KIL.L=30 R031   .K050B11525     HAMIS   HAMIS   HAMIS   HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227901  .K050B11525  k ROTOLINE ABL.KIL.L=30 R031   .K050B11525     IGAZ    IGAZ    HAMIS   IGAZ      ma 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227903  .K050B11525  k ROTOLINE ABL.KIL.L=30 R053   .K050B11525     HAMIS   HAMIS   HAMIS   HAMIS     ob 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227903  .K050B11525  k ROTOLINE ABL.KIL.L=30 R053   .K050B11525     IGAZ    IGAZ    HAMIS   IGAZ      ob 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+1 227903  .K050B11525  k ROTOLINE ABL.KIL.L=30 R053   .K050B11525     HAMIS   HAMIS   HAMIS   HAMIS     szb0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   HAMIS    IGAZ
+1 227903  .K050B11525  k ROTOLINE ABL.KIL.L=30 R053   .K050B11525     IGAZ    IGAZ    HAMIS   IGAZ      szb0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ     IGAZ
+2 230268  .N391A04718    OLLÓCSAPÁGY TAKARÓ E5 R71/2  .N391A04718     HAMIS   HAMIS   HAMIS   IGAZ      f  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230268  .N391A04718    OLLÓCSAPÁGY TAKARÓ E5 R71/2  .N391A04718     IGAZ    IGAZ    IGAZ    HAMIS     f  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 209605  .N391A05718    OLLÓPÁNT TAKARÓ FEHÉR     .N391A05718        IGAZ    IGAZ    IGAZ    HAMIS     f  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 209605  .N391A05718    OLLÓPÁNT TAKARÓ FEHÉR     .N391A05718        HAMIS   HAMIS   HAMIS   IGAZ      f  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 309951               L SAROKPÁNT TAKARÓ E5/A R072 L.NT              IGAZ    IGAZ    IGAZ    HAMIS     f  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309952               R SAROKPÁNT TAKARÓ E5/A R072 R NT              IGAZ    IGAZ    IGAZ    HAMIS     f  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457689               L SAROKCSAPÁGYTAKARÓ E5 R072 L.NT              IGAZ    IGAZ    IGAZ    HAMIS     f  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457690               R SAROKCSAPÁGYTAKARÓ E5 R072 R.NT              IGAZ    IGAZ    IGAZ    HAMIS     f  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309951               R SAROKPÁNT TAKARÓ E5/A R072 L.NT              HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 309952               L SAROKPÁNT TAKARÓ E5/A R072 R NT              HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457689               R SAROKCSAPÁGYTAKARÓ E5 R072 L.NT              HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457690               L SAROKCSAPÁGYTAKARÓ E5 R072 R.NT              HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 230264  .N391A04518    OLLÓCSAPÁGY TAKARÓ BARNA     .N391A04518     HAMIS   HAMIS   HAMIS   IGAZ      b  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230264  .N391A04518    OLLÓCSAPÁGY TAKARÓ BARNA     .N391A04518     IGAZ    IGAZ    IGAZ    HAMIS     b  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 230279  .N391A05518    OLLÓPÁNTTAKARÓ BARNA         .N391A05518     IGAZ    IGAZ    IGAZ    HAMIS     b  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 230279  .N391A05518    OLLÓPÁNTTAKARÓ BARNA         .N391A05518     HAMIS   HAMIS   HAMIS   IGAZ      b  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 309949               L SAROKPÁNT TAKARÓ E5/A R044 L.NT              IGAZ    IGAZ    IGAZ    HAMIS     b  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309950               R SAROKPÁNT TAKARÓ E5/A R044 R.NT              IGAZ    IGAZ    IGAZ    HAMIS     b  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457673               L SAROKCSAPÁGY TAK. E5 R044 L NT               IGAZ    IGAZ    IGAZ    HAMIS     b  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457674               R SAROKCSAPÁGY TAK. E5 R044 R NT               IGAZ    IGAZ    IGAZ    HAMIS     b  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309949               R SAROKPÁNT TAKARÓ E5/A R044 L.NT              HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 309950               L SAROKPÁNT TAKARÓ E5/A R044 R.NT              HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457673               R SAROKCSAPÁGY TAK. E5 R044 L NT               HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457674               L SAROKCSAPÁGY TAK. E5 R044 R NT               HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 230263  .N391A04318    OLLÓCSAPÁGY TAK.E5.R031      .N391A04318     HAMIS   HAMIS   HAMIS   IGAZ      a  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230263  .N391A04318    OLLÓCSAPÁGY TAK.E5.R031      .N391A04318     IGAZ    IGAZ    IGAZ    HAMIS     a  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 230278  .N391A05318    OLLÓPÁNTTAKARÓ E5    R031     .N391A0531     IGAZ    IGAZ    IGAZ    HAMIS     a  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 230278  .N391A05318    OLLÓPÁNTTAKARÓ E5    R031     .N391A0531     HAMIS   HAMIS   HAMIS   IGAZ      a  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 491820               L SAROKPÁNT TAKARÓ E5/A R031 L NT              IGAZ    IGAZ    IGAZ    HAMIS     a  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491821               R SAROKPÁNT TAKARÓ E5/A R031 R NT              IGAZ    IGAZ    IGAZ    HAMIS     a  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491852               L SAROKCSAPÁGY TAK. E5 R031 L NT               IGAZ    IGAZ    IGAZ    HAMIS     a  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491853               R SAROKCSAPÁGY TAK. E5 R031 R NT               IGAZ    IGAZ    IGAZ    HAMIS     a  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491820               R SAROKPÁNT TAKARÓ E5/A R031 L NT              HAMIS   HAMIS   HAMIS   HAMIS     a  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491821               L SAROKPÁNT TAKARÓ E5/A R031 R NT              HAMIS   HAMIS   HAMIS   HAMIS     a  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491852               R SAROKCSAPÁGY TAK. E5 R031 L NT               HAMIS   HAMIS   HAMIS   HAMIS     a  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491853               L SAROKCSAPÁGY TAK. E5 R031 R NT               HAMIS   HAMIS   HAMIS   HAMIS     a  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 230267  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R055   .N391A04548     HAMIS   HAMIS   HAMIS   IGAZ      br 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230267  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R055   .N391A04548     IGAZ    IGAZ    IGAZ    HAMIS     br 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 230282  .N391A05548    OLLÓKAR-TAKARÓ E5 R055       .N391A05548     IGAZ    IGAZ    IGAZ    HAMIS     br 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 230282  .N391A05548    OLLÓKAR-TAKARÓ E5 R055       .N391A05548     HAMIS   HAMIS   HAMIS   IGAZ      br 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 491846               L SAROKPÁNT TAKARÓ E5 R055 L NT                IGAZ    IGAZ    IGAZ    HAMIS     br 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491847               R SAROKPÁNTTAKARÓ E5 R055 R NT                 IGAZ    IGAZ    IGAZ    HAMIS     br 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457687               L SAROKCSAPÁGY TAK. E5 R055 L NT               IGAZ    IGAZ    IGAZ    HAMIS     br 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457688               R SAROKCSAPÁGY TAK. E5 R055 R NT               IGAZ    IGAZ    IGAZ    HAMIS     br 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491846               R SAROKPÁNT TAKARÓ E5 R055 L NT                HAMIS   HAMIS   HAMIS   HAMIS     br 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491847               L SAROKPÁNTTAKARÓ E5 R055 R NT                 HAMIS   HAMIS   HAMIS   HAMIS     br 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457687               R SAROKCSAPÁGY TAK. E5 R055 L NT               HAMIS   HAMIS   HAMIS   HAMIS     br 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457688               L SAROKCSAPÁGY TAK. E5 R055 R NT               HAMIS   HAMIS   HAMIS   HAMIS     br 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 230266  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R053   .N391A04548     HAMIS   HAMIS   HAMIS   IGAZ      kbr0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230266  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R053   .N391A04548     IGAZ    IGAZ    IGAZ    HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 230281  .N391A05548    OLLÓKAR-TAKARÓ E5 R053       .N391A05548     IGAZ    IGAZ    IGAZ    HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 230281  .N391A05548    OLLÓKAR-TAKARÓ E5 R053       .N391A05548     HAMIS   HAMIS   HAMIS   IGAZ      kbr0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 491824               L SAROKPÁNT TAKARÓ E5 R053 L NT                IGAZ    IGAZ    IGAZ    HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491845               R SAROKPÁNTTAKARÓ E5 R053 R NT                 IGAZ    IGAZ    IGAZ    HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457685               L SAROKCSAPÁGY TAK. E5 R053 L NT               IGAZ    IGAZ    IGAZ    HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457686               R SAROKCSAPÁGY TAK. E5 R053 R NT               IGAZ    IGAZ    IGAZ    HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491824               R SAROKPÁNT TAKARÓ E5 R053 L NT                HAMIS   HAMIS   HAMIS   HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491845               L SAROKPÁNTTAKARÓ E5 R053 R NT                 HAMIS   HAMIS   HAMIS   HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457685               R SAROKCSAPÁGY TAK. E5 R053 L NT               HAMIS   HAMIS   HAMIS   HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457686               L SAROKCSAPÁGY TAK. E5 R053 R NT               HAMIS   HAMIS   HAMIS   HAMIS     kbr0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 230263  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R031   .N391A04548     HAMIS   HAMIS   HAMIS   IGAZ      ma 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230263  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R031   .N391A04548     IGAZ    IGAZ    IGAZ    HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 230278  .N391A05548    OLLÓKAR-TAKARÓ E5 R031       .N391A05548     IGAZ    IGAZ    IGAZ    HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 230278  .N391A05548    OLLÓKAR-TAKARÓ E5 R031       .N391A05548     HAMIS   HAMIS   HAMIS   IGAZ      ma 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 491820               L SAROKPÁNT TAKARÓ E5 R031 L NT                IGAZ    IGAZ    IGAZ    HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491821               R SAROKPÁNTTAKARÓ E5 R031 R NT                 IGAZ    IGAZ    IGAZ    HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491852               L SAROKCSAPÁGY TAK. E5 R031 L NT               IGAZ    IGAZ    IGAZ    HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491853               R SAROKCSAPÁGY TAK. E5 R031 R NT               IGAZ    IGAZ    IGAZ    HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491820               R SAROKPÁNT TAKARÓ E5 R031 L NT                HAMIS   HAMIS   HAMIS   HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491821               L SAROKPÁNTTAKARÓ E5 R031 R NT                 HAMIS   HAMIS   HAMIS   HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491852               R SAROKCSAPÁGY TAK. E5 R031 L NT               HAMIS   HAMIS   HAMIS   HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491853               L SAROKCSAPÁGY TAK. E5 R031 R NT               HAMIS   HAMIS   HAMIS   HAMIS     ma 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 230259  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R011   .N391A04548     HAMIS   HAMIS   HAMIS   IGAZ      ne 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230259  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R011   .N391A04548     IGAZ    IGAZ    IGAZ    HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 230274  .N391A05548    OLLÓKAR-TAKARÓ E5 R011       .N391A05548     IGAZ    IGAZ    IGAZ    HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 230274  .N391A05548    OLLÓKAR-TAKARÓ E5 R011       .N391A05548     HAMIS   HAMIS   HAMIS   IGAZ      ne 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 309943               L SAROKPÁNT TAKARÓ E5 R011 L NT                IGAZ    IGAZ    IGAZ    HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309944               R SAROKPÁNTTAKARÓ E5 R011 R NT                 IGAZ    IGAZ    IGAZ    HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457669               L SAROKCSAPÁGY TAK. E5 R011 L NT               IGAZ    IGAZ    IGAZ    HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 450670               R SAROKCSAPÁGY TAK. E5 R011 R NT               IGAZ    IGAZ    IGAZ    HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309943               R SAROKPÁNT TAKARÓ E5 R011 L NT                HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 309944               L SAROKPÁNTTAKARÓ E5 R011 R NT                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457669               R SAROKCSAPÁGY TAK. E5 R011 L NT               HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 450670               L SAROKCSAPÁGY TAK. E5 R011 R NT               HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 213799  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R041   .N391A04548     HAMIS   HAMIS   HAMIS   IGAZ      szb0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 213799  .N391A04548    OLLÓCSAPÁGY-TAKARÓ E5 R041   .N391A04548     IGAZ    IGAZ    IGAZ    HAMIS     szb0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 213800  .N391A05548    OLLÓKAR-TAKARÓ E5 R041       .N391A05548     IGAZ    IGAZ    IGAZ    HAMIS     szb0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 213800  .N391A05548    OLLÓKAR-TAKARÓ E5 R041       .N391A05548     HAMIS   HAMIS   HAMIS   IGAZ      szb0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 492153               L SAROKPÁNT TAKARÓ E5 R041 L NT                IGAZ    IGAZ    IGAZ    HAMIS     szb0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 492154               R SAROKPÁNTTAKARÓ E5 R041 R NT                 IGAZ    IGAZ    IGAZ    HAMIS     szb0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491856               L SAROKCSAPÁGY TAK. E5 R041 L NT               IGAZ    IGAZ    IGAZ    HAMIS     szb0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491857               R SAROKCSAPÁGY TAK. E5 R041 R NT               IGAZ    IGAZ    IGAZ    HAMIS     szb0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 492153               R SAROKPÁNT TAKARÓ E5 R041 L NT                HAMIS   HAMIS   HAMIS   HAMIS     szb0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 492154               L SAROKPÁNTTAKARÓ E5 R041 R NT                 HAMIS   HAMIS   HAMIS   HAMIS     szb0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491856               R SAROKCSAPÁGY TAK. E5 R041 L NT               HAMIS   HAMIS   HAMIS   HAMIS     szb0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491857               L SAROKCSAPÁGY TAK. E5 R041 R NT               HAMIS   HAMIS   HAMIS   HAMIS     szb0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 230260  .N391A04128    OLLÓCSAPÁGYTAKARÓ E5 R012    .N391A04128     HAMIS   HAMIS   HAMIS   IGAZ      u  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 230260  .N391A04128    OLLÓCSAPÁGYTAKARÓ E5 R012    .N391A04128     IGAZ    IGAZ    IGAZ    HAMIS     u  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 230275  .N391A05128    OLLÓPÁNTTAKARÓ  E5   R012    .N391A05128     IGAZ    IGAZ    IGAZ    HAMIS     u  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 230275  .N391A05128    OLLÓPÁNTTAKARÓ  E5   R012    .N391A05128     HAMIS   HAMIS   HAMIS   IGAZ      u  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 491818               L SAROKPÁNT TAKARÓ E5 R012 L NT                IGAZ    IGAZ    IGAZ    HAMIS     u  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491819               R SAROKPÁNT TAKARÓ E5 R012 R NT                IGAZ    IGAZ    IGAZ    HAMIS     u  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491850               L SAROKCSAPÁGY TAK. E5 R012 L NT               IGAZ    IGAZ    IGAZ    HAMIS     u  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491851               R SAROKCSAPÁGY TAK. E5 R012 R NT               IGAZ    IGAZ    IGAZ    HAMIS     u  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 491818               R SAROKPÁNT TAKARÓ E5 R012 L NT                HAMIS   HAMIS   HAMIS   HAMIS     u  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491819               L SAROKPÁNT TAKARÓ E5 R012 R NT                HAMIS   HAMIS   HAMIS   HAMIS     u  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491850               R SAROKCSAPÁGY TAK. E5 R012 L NT               HAMIS   HAMIS   HAMIS   HAMIS     u  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 491851               L SAROKCSAPÁGY TAK. E5 R012 R NT               HAMIS   HAMIS   HAMIS   HAMIS     u  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+2 329186                 OLLÓCSAPÁGYTAKARÓ E5 R013 N391A04138         HAMIS   HAMIS   HAMIS   IGAZ      t  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 329186                 OLLÓCSAPÁGYTAKARÓ E5 R013 N391A04138         IGAZ    IGAZ    IGAZ    HAMIS     t  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+1 329185                 OLLÓKAR TAKARÓ.TIT. MATT.E5                  IGAZ    IGAZ    IGAZ    HAMIS     t  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 329185                 OLLÓKAR TAKARÓ.TIT. MATT.E5                  HAMIS   HAMIS   HAMIS   IGAZ      t  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ     IGAZ
+1 309945               L SAROKPÁNT TAKARÓ E5/A R013 L.NT              IGAZ    IGAZ    IGAZ    HAMIS     t  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309946               R SAROKPÁNT TAKARÓ E5/A R013 R.NT              IGAZ    IGAZ    IGAZ    HAMIS     t  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457671               L SAROKCSAPÁGYTAKARÓ E5 R013  L                IGAZ    IGAZ    IGAZ    HAMIS     t  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 457672               R SAROKCSAPÁGYTAKARÓ E5 R013  R                IGAZ    IGAZ    IGAZ    HAMIS     t  0       0       290     1600    280     2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 309945               R SAROKPÁNT TAKARÓ E5/A R013 L.NT              HAMIS   HAMIS   HAMIS   HAMIS     t  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 309946               L SAROKPÁNT TAKARÓ E5/A R013 R.NT              HAMIS   HAMIS   HAMIS   HAMIS     t  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457671               R SAROKCSAPÁGYTAKARÓ E5 R013  L                HAMIS   HAMIS   HAMIS   HAMIS     t  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 457672               L SAROKCSAPÁGYTAKARÓ E5 R013  R                HAMIS   HAMIS   HAMIS   HAMIS     t  0       0       290     1600    280     2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 228258  .K060A20518    ROTOLINE AJTÓHÚZÓ SZ.BARNA   .K060A20518     IGAZ    IGAZ    HAMIS   HAMIS   khb  0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228259  .K060A20728    ROTOLINE HÚZÓKILINCS FEHÉR   ,K060A20728     IGAZ    IGAZ    HAMIS   HAMIS   khf  0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228259  .K060A20728    ROTOLINE HÚZÓKILINCS FEHÉR   ,K060A20728     IGAZ    IGAZ    HAMIS   HAMIS   khnsz0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355837  .K060A20728    ROTOLINE HÚZÓKILINCS Titán                   IGAZ    IGAZ    HAMIS   HAMIS   kht  0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355837  .K060A20728    ROTOLINE HÚZÓKILINCS Titán                   IGAZ    IGAZ    HAMIS   HAMIS   khu  0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228258  .K060A20518    ROTOLINE AJTÓHÚZÓ SZ.BARNA   .K060A20518     IGAZ    IGAZ    HAMIS   HAMIS   kha  0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355838  .K060A20728    ROTOLINE HÚZÓKILINCS mbronz                  IGAZ    IGAZ    HAMIS   HAMIS   khbr 0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355838  .K060A20728    ROTOLINE HÚZÓKILINCS mbronz                  IGAZ    IGAZ    HAMIS   HAMIS   khkbr0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355837  .K060A20728    ROTOLINE HÚZÓKILINCS Titán                   IGAZ    IGAZ    HAMIS   HAMIS   khne 0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355838  .K060A20728    ROTOLINE HÚZÓKILINCS mbronz                  IGAZ    IGAZ    HAMIS   HAMIS   khma 0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355838  .K060A20728    ROTOLINE HÚZÓKILINCS mbronz                  IGAZ    IGAZ    HAMIS   HAMIS   khob 0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 355838  .K060A20728    ROTOLINE HÚZÓKILINCS mbronz                  IGAZ    IGAZ    HAMIS   HAMIS   khszb0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228294  .K060B10301  g ROTOLINE GARN. MATT ARANY    .K060B10301     IGAZ    IGAZ    HAMIS   HAMIS     a  0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228236  .K060A10701  g ROTOLINE GARN.  FEHÉR.       .K060A10701     IGAZ    IGAZ    HAMIS   HAMIS     f  0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228236  .K060A10701  g ROTOLINE GARN.  FEHÉR.       .K060A10701     IGAZ    IGAZ    HAMIS   HAMIS     nsz0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228235  .K060A10511  g ROTOLINE GARN. SZ.BARNA      .K060A10511     IGAZ    IGAZ    HAMIS   HAMIS     b  0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228296  .K060B10521  g ROTOLINE GARN.  BRONZ        .K060B10521     IGAZ    IGAZ    HAMIS   HAMIS     br 0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228295  .K060B10521  g ROTOLINE GARN.  kBRONZ       .K060B10521     IGAZ    IGAZ    HAMIS   HAMIS     kbr0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228295  .K060B10521  g ROTOLINE GARN.  kBRONZ       .K060B10521     IGAZ    IGAZ    HAMIS   HAMIS     ob 0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228292  .K060B10521  g ROTOLINE GARN.  ne           .K060B10521     IGAZ    IGAZ    HAMIS   HAMIS     ne 0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228294  .K060B10521  g ROTOLINE GARN.  ma           .K060B10521     IGAZ    IGAZ    HAMIS   HAMIS     ma 0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228235  .K060B10521  g ROTOLINE GARN.  szb          .K060B10521     IGAZ    IGAZ    HAMIS   HAMIS     szb0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228293  .K060B10211  g ROTOLINE KILNCSGARN  R012    .K060B10211     IGAZ    IGAZ    HAMIS   HAMIS     u  0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 228292  .K060B10211  g ROTOLINE KILNCSGARN  R012    .K060B10211     IGAZ    IGAZ    HAMIS   HAMIS     t  0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 259950  .N172A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D25 .N172A08216     IGAZ    IGAZ    HAMIS   HAMIS   25   2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259952  .N172A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D25 .N172A09206     IGAZ    IGAZ    HAMIS   HAMIS   25   2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259954  .N172A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D25 .N172A10216     IGAZ    IGAZ    HAMIS   HAMIS   25   3       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259956  .N150A11206    BNY RÚDZÁR K 2290/1000 3E NT .N150A11206     IGAZ    IGAZ    HAMIS   HAMIS   25   3       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259950  .N172A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D25 .N172A08216     HAMIS   HAMIS   HAMIS   HAMIS   25   0       0       290     1600    1601    1800    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259952  .N172A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D25 .N172A09206     HAMIS   HAMIS   HAMIS   HAMIS   25   0       0       290     1600    1801    2000    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259954  .N172A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D25 .N172A10216     HAMIS   HAMIS   HAMIS   HAMIS   25   0       0       290     1600    2001    2200    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259956  .N150A11206    BNY RÚDZÁR K 2290/1000 3E NT .N150A11206     HAMIS   HAMIS   HAMIS   HAMIS   25   0       0       290     1600    2201    2400    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259958  .N173A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D30 .N173A08216     IGAZ    IGAZ    HAMIS   HAMIS   30   2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259960  .N173A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D30 .N173A09206     IGAZ    IGAZ    HAMIS   HAMIS   30   2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259962  .N173A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D30 .N173A10216     IGAZ    IGAZ    HAMIS   HAMIS   30   3       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259964  .N150A11206    BNY RÚDZÁR K 2290/1000 3E NT .N150A11206     IGAZ    IGAZ    HAMIS   HAMIS   30   3       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259958  .N173A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D30 .N173A08216     HAMIS   HAMIS   HAMIS   HAMIS   30   0       0       290     1600    1601    1800    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259960  .N173A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D30 .N173A09206     HAMIS   HAMIS   HAMIS   HAMIS   30   0       0       290     1600    1801    2000    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259962  .N173A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D30 .N173A10216     HAMIS   HAMIS   HAMIS   HAMIS   30   0       0       290     1600    2001    2200    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259964  .N150A11206    BNY RÚDZÁR K 2290/1000 3E NT .N150A11206     HAMIS   HAMIS   HAMIS   HAMIS   30   0       0       290     1600    2201    2400    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259966                 B-NY.RÚDZ.K 1690 ZÁRH.2E D35                 IGAZ    IGAZ    HAMIS   HAMIS   35   2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259968  .N174A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D35 .N174A09206     IGAZ    IGAZ    HAMIS   HAMIS   35   2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259970  .N174A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D35 .N174A10216     IGAZ    IGAZ    HAMIS   HAMIS   35   3       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259972                 B-NY.RÚDZ.K 2290 ZÁRH.4E D35                 IGAZ    IGAZ    HAMIS   HAMIS   35   3       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259966                 B-NY.RÚDZ.K 1690 ZÁRH.2E D35                 HAMIS   HAMIS   HAMIS   HAMIS   35   0       0       290     1600    1601    1800    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259968  .N174A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D35 .N174A09206     HAMIS   HAMIS   HAMIS   HAMIS   35   0       0       290     1600    1801    2000    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259970  .N174A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D35 .N174A10216     HAMIS   HAMIS   HAMIS   HAMIS   35   0       0       290     1600    2001    2200    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259972                 B-NY.RÚDZ.K 2290 ZÁRH.4E D35                 HAMIS   HAMIS   HAMIS   HAMIS   35   0       0       290     1600    2201    2400    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259974                 B-NY.RÚDZ.K 1690 ZÁRH.2E D40                 IGAZ    IGAZ    HAMIS   HAMIS   40   2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259976  .N175A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D40 .N175A09206     IGAZ    IGAZ    HAMIS   HAMIS   40   2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259978  .N175A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D40 .N175A10216     IGAZ    IGAZ    HAMIS   HAMIS   40   3       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259980  .N175A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D40 .N175A11216     IGAZ    IGAZ    HAMIS   HAMIS   40   3       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259974                 B-NY.RÚDZ.K 1690 ZÁRH.2E D40                 HAMIS   HAMIS   HAMIS   HAMIS   40   0       0       290     1600    1601    1800    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259976  .N175A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D40 .N175A09206     HAMIS   HAMIS   HAMIS   HAMIS   40   0       0       290     1600    1801    2000    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259978  .N175A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D40 .N175A10216     HAMIS   HAMIS   HAMIS   HAMIS   40   0       0       290     1600    2001    2200    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259980  .N175A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D40 .N175A11216     HAMIS   HAMIS   HAMIS   HAMIS   40   0       0       290     1600    2201    2400    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259982  .N176A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D45 .N176A08216     IGAZ    IGAZ    HAMIS   HAMIS   45   2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259984  .N176A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D45 .N176A09206     IGAZ    IGAZ    HAMIS   HAMIS   45   2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259986  .N176A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D45 .N176A10216     IGAZ    IGAZ    HAMIS   HAMIS   45   3       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259988  .N176A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D45 .N176A11216     IGAZ    IGAZ    HAMIS   HAMIS   45   3       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259982  .N176A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D45 .N176A08216     HAMIS   HAMIS   HAMIS   HAMIS   45   0       0       290     1600    1601    1800    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259984  .N176A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D45 .N176A09206     HAMIS   HAMIS   HAMIS   HAMIS   45   0       0       290     1600    1801    2000    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259986  .N176A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D45 .N176A10216     HAMIS   HAMIS   HAMIS   HAMIS   45   0       0       290     1600    2001    2200    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259988  .N176A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D45 .N176A11216     HAMIS   HAMIS   HAMIS   HAMIS   45   0       0       290     1600    2201    2400    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259990  .N150A08206    B-NY.RÚDZ. K 1690/1000 2E NT .N150A08206     IGAZ    IGAZ    HAMIS   HAMIS   50   2       0       290     1600    1601    1800    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259992  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     IGAZ    IGAZ    HAMIS   HAMIS   50   2       0       290     1600    1801    2000    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259994  .N150A10206    B-NY.RÚDZ. K 2090/1000 3E NT .N150A10206     IGAZ    IGAZ    HAMIS   HAMIS   50   3       0       290     1600    2001    2200    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259996  .N150A11206    BNY RÚDZÁR K 2290/1000 3E NT .N150A11206     IGAZ    IGAZ    HAMIS   HAMIS   50   3       0       290     1600    2201    2400    M260360                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259990  .N150A08206    B-NY.RÚDZ. K 1690/1000 2E NT .N150A08206     HAMIS   HAMIS   HAMIS   HAMIS   50   0       0       290     1600    1601    1800    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259992  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   HAMIS   HAMIS   HAMIS   50   0       0       290     1600    1801    2000    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259994  .N150A10206    B-NY.RÚDZ. K 2090/1000 3E NT .N150A10206     HAMIS   HAMIS   HAMIS   HAMIS   50   0       0       290     1600    2001    2200    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 259996  .N150A11206    BNY RÚDZÁR K 2290/1000 3E NT .N150A11206     HAMIS   HAMIS   HAMIS   HAMIS   50   0       0       290     1600    2201    2400    M260360                 HAMIS   IGAZ    IGAZ    IGAZ    HAMIS
+1 329981                 Mágnesescsappantyú  szárnyrész 9mm           IGAZ    IGAZ    HAMIS   HAMIS     mcs0       0       290     1600    1801    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+1 330014                 Mágnesescsappantyú FA 18mm                   IGAZ    IGAZ    HAMIS   HAMIS     mcs0       0       290     1600    1801    2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 330082  .N710A00106    M CSAPPANTYU FELNYÍLÓ ABL.7/8                HAMIS   HAMIS   IGAZ    HAMIS     mcs0       0       290     1600    1801    2400                            IGAZ    HAMIS   HAMIS   IGAZ    HAMIS
+1 256633                 RÉSSZELLÕZTETÕ FA 18 mm                      IGAZ    HAMIS   HAMIS   HAMIS     r  0       0       290     1600    280     2400                            IGAZ    IGAZ    HAMIS   IGAZ    HAMIS
+1 349574                 Roto cilinder  S6 35x45 nikkelezett          IGAZ    IGAZ    HAMIS   HAMIS     c  0       0       290     1600    1601    2400                            IGAZ    IGAZ    IGAZ    IGAZ    HAMIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

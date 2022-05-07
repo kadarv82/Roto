@@ -1,0 +1,583 @@
+3NSAP     MARTIKEL     IRMTEXT                                        MDK     MDF     MDS     MKIPP   záSzíMSSTK   MSISSTK MFFBV   MFFBB   MFFHV   MFFHB   MSTART      MSISTART    ANZEIGENMDK2    MDF2    MDS2    MFREIHUF
+1 211597  .L305A15005  k PATIO KILINCS K.BRONZ L305A15005    G01D     HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 211596  .L305A17000  k PATIO KILINCS  FEHÉR L305A17000    .G00D     HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 347090                 SINKÉSZLET  900/1930mm R05.4                 HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 347091                 SINKÉSZLET 1050/2230mm R05.4                 HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347092                 SINKKÉSZLET  1250/2630mm R05.4               HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347093                 SINKÉSZLET 1450/3030mm R05.4                 HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347094                 SINKÉSZLET 1650/3430mm R05.4                 HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     HAMIS   IGAZ    HAMIS   HAMIS        1       0       600     1650    800     1000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     HAMIS   IGAZ    HAMIS   HAMIS        1       0       600     1650    1001    1200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     HAMIS   IGAZ    HAMIS   HAMIS        1       0       600     1650    1201    1400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     HAMIS   IGAZ    HAMIS   HAMIS        1       0       600     1650    1401    1600    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     HAMIS   IGAZ    HAMIS   HAMIS    0   2       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   IGAZ    HAMIS   HAMIS    0   2       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     HAMIS   IGAZ    HAMIS   HAMIS    0   2       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     HAMIS   IGAZ    HAMIS   HAMIS    0   2       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281244                 Rúdzár középr.nélk. 1V+1E S NT 800-1000      HAMIS   IGAZ    HAMIS   HAMIS        1       1       600     1650    800     1000    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281245                 Rúdzár középr.nélk. 1V+1E S NT 1001-1200     HAMIS   IGAZ    HAMIS   HAMIS        1       1       600     1650    1001    1200    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281246                 Rúdzár középr.nélk. 1V+1E S NT 1201-1400     HAMIS   IGAZ    HAMIS   HAMIS        1       1       600     1650    1201    1400    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281247                 Rúdzár középr.nélk. 1V+2E S NT 1401-1600     HAMIS   IGAZ    HAMIS   HAMIS        2       1       600     1650    1401    1600    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281248                 Rúdzár középr.nélk. 1V+2E S NT 1601-1800     HAMIS   IGAZ    HAMIS   HAMIS        2       1       600     1650    1601    1800    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281249                 Rúdzár középr.nélk. 1V+2E S NT 1801-2000     HAMIS   IGAZ    HAMIS   HAMIS        2       1       600     1650    1801    2000    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281250  70             Rúdzár középr.nélk. 1V+3E S NT 2001-2200     HAMIS   IGAZ    HAMIS   HAMIS        3       1       600     1650    2001    2200    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281251  70             Rúdzár középr.nélk. 1V+3E S NT 2201-2400     HAMIS   IGAZ    HAMIS   HAMIS        3       1       600     1650    2201    2400    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 260272  .N400A01106    SAROKVÁLTÓ 1V (2160)   NT    .N400A01106     HAMIS   IGAZ    HAMIS   HAMIS        0       1       600     1650    800     2400                M260393     IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 260288  .N400A15106    BUKÓ-NYÍLÓ SAROKVÁLTÓ  NT    .N400A15106     HAMIS   IGAZ    HAMIS   HAMIS        0       1       600     1650    800     2400                M260393     IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 255273  .N400A17006    ÍVES SAROKVÁLTÓ    NT        .N400A17006     HAMIS   IGAZ    HAMIS   HAMIS        0       0       600     1650    800     2400                M260393     IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 281239  70             FELSÕ ÖSSZEKÖTÕELEM    S NT 600-800          HAMIS   IGAZ    HAMIS   HAMIS        1       0       600     800     800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 281240  70             FELSÕ ÖSSZEKÖTÕELEM S NT    801-1000         HAMIS   IGAZ    HAMIS   HAMIS        1       0       801     1000    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281241  70             FELSÕ ÖSSZEKÖTÕELEM    S NT 1001-1200        HAMIS   IGAZ    HAMIS   HAMIS        1       0       1001    1200    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281242  70             FELSÕ ÖSSZEKÖTÕELEM VÍZSZ.S NT 1201-1400     HAMIS   IGAZ    HAMIS   HAMIS        1       0       1201    1400    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281243  70             FELSÕ ÖSSZEKÖTÕELEM    S NT 1401-1650        HAMIS   IGAZ    HAMIS   HAMIS        2       0       1401    1650    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281228  70             HKS OLLÓ S NT 600-900 MM       .G10T001      HAMIS   IGAZ    HAMIS   HAMIS        0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 281230  70             HKS 150 S OLLÓ NT 901-1200 MM .(G11T001)     HAMIS   IGAZ    HAMIS   HAMIS        0       0       901     1200    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281231  70             HKS OLLÓ S NT 1201-1650 MM      .G12T001     HAMIS   IGAZ    HAMIS   HAMIS        0       0       1201    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281232  70             CSAPANTY.ÖSSZEKÖT.ELEM ALSÓ S NT 600-800     HAMIS   IGAZ    HAMIS   HAMIS        0       0       600     800     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 281235  70             CSAPPANTY.ÖSSZEKÖTELEM ALSÓ S NT801-1000     HAMIS   IGAZ    HAMIS   HAMIS        1       0       801     1000    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281236  70             CSAPP.ÖSSZEKÖTÕEL.ALSÓ S NT 1001-1200        HAMIS   IGAZ    HAMIS   HAMIS        1       0       1001    1200    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281237  70             CSAPP.ÖSSZEK.ELEM ALSÓ S NT 1201-1400        HAMIS   IGAZ    HAMIS   HAMIS        1       0       1201    1400    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281238  70             CSAPP.ÖSZZEK.ELEM ALSÓ S NT 1401-1650        HAMIS   IGAZ    HAMIS   HAMIS        2       0       1401    1650    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281226  70           L ALAPKÉSZLET HKS150 S NT BAL                  HAMIS   IGAZ    IGAZ    HAMIS        0       0       600     1650    800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 281227  70           R ALAPKÉSZLET HKS150 S NT JOBB                 HAMIS   IGAZ    IGAZ    HAMIS        0       0       600     1650    800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 250288                 VEZÉRLÕLAP   /175 S NT Gealan 3000           HAMIS   IGAZ    HAMIS   HAMIS        0       0       600     1650    800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+0 319744                 ZÁRÓDARAB  K  NT.   NR206                    HAMIS   IGAZ    HAMIS   HAMIS        0       0       600     1650    1800    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+0 260393  .N702A20606    BIZT-ZÁRÓDARAB K             .N702A20606     HAMIS   IGAZ    HAMIS   HAMIS        0       0       600     1650    1800    2400                M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347066                 SINKÉSZLET 900/1930mm R01.1                  HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 347067                 SINKÉSZLET 1050/2230mm R01.1                 HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347068                 SINKÉSZLET 1250/2630mm R01.1                 HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347069                 SINKÉSZLET 1450/3030mm R01.1                 HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347070                 SINKÉSZLET 1650/3430mm R01.1                 HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 211598               k ROTOLINE KIL. R01.1            .G02D         HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 211596  .L305A17000  k PATIO KILINCS  FEHÉR L305A17000    .G00D     HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 211597  .L305A15005  k PATIO KILINCS K.BRONZ L305A15005    G01D     HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 211596  .L305A17000  k PATIO KILINCS  FEHÉR L305A17000    .G00D     HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 347090                 SINKÉSZLET  900/1930mm R05.4                 HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 347091                 SINKÉSZLET 1050/2230mm R05.4                 HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347092                 SINKKÉSZLET  1250/2630mm R05.4               HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347093                 SINKÉSZLET 1450/3030mm R05.4                 HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347094                 SINKÉSZLET 1650/3430mm R05.4                 HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    800     1000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    1001    1200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    1201    1400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    1401    1600    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259836  .N150A04206    B-NY.RÚDZ. K  890/ 413 1E NT .N150A04206     HAMIS   HAMIS   IGAZ    HAMIS        1       0       600     1650    800     1000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318598                 B-NY.RÚDZ.K 1090/513 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   IGAZ    HAMIS        1       0       600     1650    1001    1200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318599                 B-NY.RÚDZ.K 1290/563 1E D15 RÉSSZ.135 NT     HAMIS   HAMIS   IGAZ    HAMIS        1       0       600     1650    1201    1400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 318600                 B-NY.RÚDZ.K 1490/563 2E D15 RÉSSZ.135 NT     HAMIS   HAMIS   IGAZ    HAMIS        1       0       600     1650    1401    1600    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259846  .N150A08206    B-NY.RÚDZ. K 1690/ 563 2E NT .N150A08206     HAMIS   HAMIS   IGAZ    HAMIS    0   2       0       600     1650    1601    1800    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259849  .N150A09206    B-NY.RÚDZ. K 1890/1000 2E NT .N150A09206     HAMIS   HAMIS   IGAZ    HAMIS    0   2       0       600     1650    1801    2000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259851  .N150A10206    B-NY.RÚDZ. K 2090/1000 2E NT .N150A10206     HAMIS   HAMIS   IGAZ    HAMIS    0   2       0       600     1650    2001    2200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259854  .N150A11206    BNY RÚDZÁR K 2290/1000 2E NT .N150A11206     HAMIS   HAMIS   IGAZ    HAMIS    0   2       0       600     1650    2201    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+0 260359  .N701A00306    ZÁRÓDARAB MV   EURONUT (NT)  .N701A00306     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    1800    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281244                 Rúdzár középr.nélk. 1V+1E S NT 800-1000      HAMIS   HAMIS   IGAZ    HAMIS        1       1       600     1650    800     1000    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281245                 Rúdzár középr.nélk. 1V+1E S NT 1001-1200     HAMIS   HAMIS   IGAZ    HAMIS        1       1       600     1650    1001    1200    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281246                 Rúdzár középr.nélk. 1V+1E S NT 1201-1400     HAMIS   HAMIS   IGAZ    HAMIS        1       1       600     1650    1201    1400    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281247                 Rúdzár középr.nélk. 1V+2E S NT 1401-1600     HAMIS   HAMIS   IGAZ    HAMIS        2       1       600     1650    1401    1600    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281248                 Rúdzár középr.nélk. 1V+2E S NT 1601-1800     HAMIS   HAMIS   IGAZ    HAMIS        2       1       600     1650    1601    1800    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281249                 Rúdzár középr.nélk. 1V+2E S NT 1801-2000     HAMIS   HAMIS   IGAZ    HAMIS        2       1       600     1650    1801    2000    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281250  70             Rúdzár középr.nélk. 1V+3E S NT 2001-2200     HAMIS   HAMIS   IGAZ    HAMIS        3       1       600     1650    2001    2200    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281251  70             Rúdzár középr.nélk. 1V+3E S NT 2201-2400     HAMIS   HAMIS   IGAZ    HAMIS        3       1       600     1650    2201    2400    M319744     M260393     HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+4 260272  .N400A01106    SAROKVÁLTÓ 1V (2160)   NT    .N400A01106     HAMIS   HAMIS   IGAZ    HAMIS        0       1       600     1650    800     2400                M260393     IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 260288  .N400A15106    BUKÓ-NYÍLÓ SAROKVÁLTÓ  NT    .N400A15106     HAMIS   HAMIS   IGAZ    HAMIS        0       1       600     1650    800     2400                M260393     IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 255273  .N400A17006    ÍVES SAROKVÁLTÓ    NT        .N400A17006     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    800     2400                M260393     IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 281239  70             FELSÕ ÖSSZEKÖTÕELEM    S NT 600-800          HAMIS   HAMIS   IGAZ    HAMIS        1       0       600     800     800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 281240  70             FELSÕ ÖSSZEKÖTÕELEM S NT    801-1000         HAMIS   HAMIS   IGAZ    HAMIS        1       0       801     1000    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281241  70             FELSÕ ÖSSZEKÖTÕELEM    S NT 1001-1200        HAMIS   HAMIS   IGAZ    HAMIS        1       0       1001    1200    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281242  70             FELSÕ ÖSSZEKÖTÕELEM VÍZSZ.S NT 1201-1400     HAMIS   HAMIS   IGAZ    HAMIS        1       0       1201    1400    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281243  70             FELSÕ ÖSSZEKÖTÕELEM    S NT 1401-1650        HAMIS   HAMIS   IGAZ    HAMIS        2       0       1401    1650    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281228  70             HKS OLLÓ S NT 600-900 MM       .G10T001      HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 281230  70             HKS 150 S OLLÓ NT 901-1200 MM .(G11T001)     HAMIS   HAMIS   IGAZ    HAMIS        0       0       901     1200    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281231  70             HKS OLLÓ S NT 1201-1650 MM      .G12T001     HAMIS   HAMIS   IGAZ    HAMIS        0       0       1201    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281232  70             CSAPANTY.ÖSSZEKÖT.ELEM ALSÓ S NT 600-800     HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     800     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 281235  70             CSAPPANTY.ÖSSZEKÖTELEM ALSÓ S NT801-1000     HAMIS   HAMIS   IGAZ    HAMIS        1       0       801     1000    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281236  70             CSAPP.ÖSSZEKÖTÕEL.ALSÓ S NT 1001-1200        HAMIS   HAMIS   IGAZ    HAMIS        1       0       1001    1200    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281237  70             CSAPP.ÖSSZEK.ELEM ALSÓ S NT 1201-1400        HAMIS   HAMIS   IGAZ    HAMIS        1       0       1201    1400    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 281238  70             CSAPP.ÖSZZEK.ELEM ALSÓ S NT 1401-1650        HAMIS   HAMIS   IGAZ    HAMIS        2       0       1401    1650    800     2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 281226  70           R ALAPKÉSZLET HKS150 S NT BAL                  HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 281227  70           L ALAPKÉSZLET HKS150 S NT JOBB                 HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+4 250288                 VEZÉRLÕLAP   /175 S NT Gealan 3000           HAMIS   HAMIS   IGAZ    HAMIS        0       0       600     1650    800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 347066                 SINKÉSZLET 900/1930mm R01.1                  HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 347067                 SINKÉSZLET 1050/2230mm R01.1                 HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347068                 SINKÉSZLET 1250/2630mm R01.1                 HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347069                 SINKÉSZLET 1450/3030mm R01.1                 HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347070                 SINKÉSZLET 1650/3430mm R01.1                 HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 211598               k ROTOLINE KIL. R01.1            .G02D         HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 211596  .L305A17000  k PATIO KILINCS  FEHÉR L305A17000    .G00D     HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       600     1650    800     2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       901     1050    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       1051    1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       1251    1450    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       1451    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 245484                 RÚDZÁR Z NT  17.5D. 1801-2000mm Kst          HAMIS   HAMIS   HAMIS   HAMIS    0   2       0       720     2000    1800    2000    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 245485                 RÚDZÁR Z NT 17.5D. 2001-2200 MM Kst          HAMIS   HAMIS   HAMIS   HAMIS    0   2       0       720     2000    2001    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+2 245500                 ZÁRHOSSZABBÍTÓ Z NT 250 MM                   HAMIS   HAMIS   HAMIS   HAMIS        1       0       720     2000    2201    2400    M319744                 HAMIS   IGAZ    IGAZ    HAMIS   HAMIS
+1 245477                 KÖZÉPZÁRÓ HKS Z NT FÜGG.1800-2000 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       720     2000    1800    2000    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 245478                 MV ÉPÍTÕELEM Z NT FÜGG. 2001-2200 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       720     2000    2001    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+2 245479                 MV ÉPÍTÕELEM Z NT VÍZSZ. 720-1050 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        1       0       720     1050    1800    2400    M319744                 IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+2 245480                 MV ÉPÍTÕELEM Z NT VÍZSZ.1051-1250 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        1       0       1051    1250    1800    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+2 245481                 KÖZÉPZÁRÓ HKS Z NT VÍZSZ.1251-1450MM KST     HAMIS   HAMIS   HAMIS   HAMIS        1       0       1251    1450    1800    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+2 245482                 MV ÉPÍTÕELEM Z NT VÍZSZ.1451-1650 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       1451    1650    1800    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+2 245483                 MV ÉPÍTÕELEM Z NT VÍZSZ.1651-1850 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       1651    2000    1800    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 245454               L ALAPKÉSZLET Z NT 13 MM LS SH                 HAMIS   HAMIS   HAMIS   HAMIS        4       0       720     2000    1800    2400    M319744                 IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 245460               R ALAPKÉSZLET Z NT 13 MM RS SH                 HAMIS   HAMIS   HAMIS   HAMIS        4       0       720     2000    1800    2400    M319744                 IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 284260                 VEZÉRLÕLAP -PÁR  Z NT Gealan 3000            HAMIS   HAMIS   HAMIS   HAMIS        0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+0 228916  .K605A89008    ALÁTÉT   C100        GEALAN  .K605A89008     HAMIS   HAMIS   HAMIS   HAMIS        0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 245484                 RÚDZÁR Z NT  17.5D. 1801-2000mm Kst          HAMIS   HAMIS   HAMIS   HAMIS        0       0       720     2000    1800    2000    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 245485                 RÚDZÁR Z NT 17.5D. 2001-2200 MM Kst          HAMIS   HAMIS   HAMIS   HAMIS        0       0       720     2000    2001    2400    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 245484                 RÚDZÁR Z NT  17.5D. 1801-2000mm Kst          HAMIS   HAMIS   HAMIS   HAMIS    0   2       0       720     2000    1800    2000    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 245485                 RÚDZÁR Z NT 17.5D. 2001-2200 MM Kst          HAMIS   HAMIS   HAMIS   HAMIS    0   2       0       720     2000    2001    2400    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 245500                 ZÁRHOSSZABBÍTÓ Z NT 250 MM                   HAMIS   HAMIS   HAMIS   HAMIS        1       0       720     2000    2201    2400    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 245477                 KÖZÉPZÁRÓ HKS Z NT FÜGG.1800-2000 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       720     2000    1800    2000    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 245478                 MV ÉPÍTÕELEM Z NT FÜGG. 2001-2200 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       720     2000    2001    2400    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+4 245479                 MV ÉPÍTÕELEM Z NT VÍZSZ. 720-1050 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        1       0       720     1050    1800    2400    M319744                 IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+4 245480                 MV ÉPÍTÕELEM Z NT VÍZSZ.1051-1250 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        1       0       1051    1250    1800    2400    M319744                 IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+4 245481                 KÖZÉPZÁRÓ HKS Z NT VÍZSZ.1251-1450MM KST     HAMIS   HAMIS   HAMIS   HAMIS        1       0       1251    1450    1800    2400    M319744                 IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+4 245482                 MV ÉPÍTÕELEM Z NT VÍZSZ.1451-1650 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       1451    1650    1800    2400    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+4 245483                 MV ÉPÍTÕELEM Z NT VÍZSZ.1651-1850 MM KST     HAMIS   HAMIS   HAMIS   HAMIS        2       0       1651    2000    1800    2400    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 257083                 ALAPKÉSZLET Z NT 2 szárnyú 13 MM             HAMIS   HAMIS   HAMIS   HAMIS        8       0       720     2000    1800    2400    M319744                 IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 284260                 VEZÉRLÕLAP -PÁR  Z NT Gealan 3000            HAMIS   HAMIS   HAMIS   HAMIS        0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 260437  .N705A20606    ZÁRÓDARAB NEM ÁLLÍTH. 2 L NT .N705A20606     HAMIS   HAMIS   HAMIS   HAMIS        0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+0 228916  .K605A89008    ALÁTÉT   C100        GEALAN  .K605A89008     HAMIS   HAMIS   HAMIS   HAMIS        0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 211604               k ROTOLINE KILINCS Z R01.1NATUREZÜST .G14D     HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 211601               k HKS 150Z KIL.  R05.3 KÖZÉPBRONZ   .G11D      HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 211600               k HKS 150Z KILINCS  R07.2 FEHÉR      .G10D     HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+2 211604               k ROTOLINE KILINCS Z R01.1NATUREZÜST .G14D     HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 211601               k HKS 150Z KIL.  R05.3 KÖZÉPBRONZ   .G11D      HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 211600               k HKS 150Z KILINCS  R07.2 FEHÉR      .G10D     HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 347090                 SINKÉSZLET  900/1930mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     900     1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 347091                 SINKÉSZLET 1050/2230mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       901     1050    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347092                 SINKKÉSZLET  1250/2630mm R05.4               HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1051    1250    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347093                 SINKÉSZLET 1450/3030mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1251    1450    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347094                 SINKÉSZLET 1650/3430mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1451    1650    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347095                 SINKÉSZLET 1850/3830mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1651    1850    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347096                 SINKÉSZLET 2000/4130mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1851    2000    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     900     1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       901     1050    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1051    1250    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1251    1450    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1451    1650    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347102                 SINKÉSZLET 1850/3830mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1651    1850    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347103                 SINKÉSZLET 2000/4130mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1851    2000    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347066                 SINKÉSZLET 900/1930mm R01.1                  HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     900     1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 347067                 SINKÉSZLET 1050/2230mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       901     1050    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347068                 SINKÉSZLET 1250/2630mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1051    1250    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347069                 SINKÉSZLET 1450/3030mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1251    1450    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347070                 SINKÉSZLET 1650/3430mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1451    1650    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347071                 SINKÉSZLET 1850/3830mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1651    1850    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347072                 SINKÉSZLET 2000/4130mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1851    2000    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+2 347090                 SINKÉSZLET  900/1930mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     900     1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 347091                 SINKÉSZLET 1050/2230mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       901     1050    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347092                 SINKKÉSZLET  1250/2630mm R05.4               HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1051    1250    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347093                 SINKÉSZLET 1450/3030mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1251    1450    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347094                 SINKÉSZLET 1650/3430mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1451    1650    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347095                 SINKÉSZLET 1850/3830mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1651    1850    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347096                 SINKÉSZLET 2000/4130mm R05.4                 HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       1851    2000    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     900     1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       901     1050    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1051    1250    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1251    1450    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1451    1650    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347102                 SINKÉSZLET 1850/3830mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1651    1850    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347103                 SINKÉSZLET 2000/4130mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       1851    2000    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347066                 SINKÉSZLET 900/1930mm R01.1                  HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     900     1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 347067                 SINKÉSZLET 1050/2230mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       901     1050    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347068                 SINKÉSZLET 1250/2630mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1051    1250    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347069                 SINKÉSZLET 1450/3030mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1251    1450    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347070                 SINKÉSZLET 1650/3430mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1451    1650    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347071                 SINKÉSZLET 1850/3830mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1651    1850    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347072                 SINKÉSZLET 2000/4130mm R01.1                 HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       1851    2000    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 211600               k HKS 150Z KILINCS  R07.2 FEHÉR      .G10D     HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+2 211600               k HKS 150Z KILINCS  R07.2 FEHÉR      .G10D     HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     900     1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       901     1050    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1051    1250    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1251    1450    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1451    1650    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347102                 SINKÉSZLET 1850/3830mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1651    1850    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 347103                 SINKÉSZLET 2000/4130mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1851    2000    1800    2400                            HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+2 347097                 SINKÉSZLET 900/1930mm R07.2                  HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     900     1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 347098                 SINKÉSZLET 1050/2230mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       901     1050    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347099                 SINKÉSZLET 1250/2630mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1051    1250    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347100                 SINKÉSZLET 1450/3030mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1251    1450    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347101                 SINKÉSZLET 1650/3430mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1451    1650    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347102                 SINKÉSZLET 1850/3830mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1651    1850    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+2 347103                 SINKÉSZLET 2000/4130mm R07.2                 HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       1851    2000    1800    2400                            HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 288821                 TARTÓSIN + TAKARÓ 900 MM R07.2 FEHÉR         HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 288822                 TARTÓSIN + TAKARÓ 1250 MM R07.2 FEHÉR        HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 288823                 TARTÓSIN + TAKARÓ 1650mm R07.2 FEHÉR         HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288821                 TARTÓSIN + TAKARÓ 900 MM R07.2 FEHÉR         HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 288822                 TARTÓSIN + TAKARÓ 1250 MM R07.2 FEHÉR        HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288823                 TARTÓSIN + TAKARÓ 1650mm R07.2 FEHÉR         HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 288821                 TARTÓSIN + TAKARÓ 900 MM R07.2 FEHÉR         HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 288822                 TARTÓSIN + TAKARÓ 1250 MM R07.2 FEHÉR        HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 288823                 TARTÓSIN + TAKARÓ 1650mm R07.2 FEHÉR         HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288821                 TARTÓSIN + TAKARÓ 900 MM R07.2 FEHÉR         HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 288822                 TARTÓSIN + TAKARÓ 1250 MM R07.2 FEHÉR        HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288823                 TARTÓSIN + TAKARÓ 1650mm R07.2 FEHÉR         HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 288824                 TARTÓSIN + TAKARÓ 900mm R01.1 ALU SZIN       HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 288825                 TARTÓSIN + TAKARÓ 1250mm R01.1 ALU SZIN      HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 288827                 TARTÓSIN + TAKARÓ 1650mm R01.1 ALU SZIN      HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288824                 TARTÓSIN + TAKARÓ 900mm R01.1 ALU SZIN       HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 288825                 TARTÓSIN + TAKARÓ 1250mm R01.1 ALU SZIN      HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288827                 TARTÓSIN + TAKARÓ 1650mm R01.1 ALU SZIN      HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 288828                 TARTÓSIN+TAKARÓ 900 MM R05.4 BARNA           HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 288830                 TARTÓSIN + TAKARÓ 1250 MM  R05.4 BARNA       HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 288834                 TARTÓSIN+TAKARÓ  1650mm R05.4BARNA           HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288828                 TARTÓSIN+TAKARÓ 900 MM R05.4 BARNA           HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       600     900     800     2400                            IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+2 288830                 TARTÓSIN + TAKARÓ 1250 MM  R05.4 BARNA       HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       901     1250    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288834                 TARTÓSIN+TAKARÓ  1650mm R05.4BARNA           HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       1251    1650    800     2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+2 288875               L MÛA. OLLÓTAK PATIO HKS Z  FEHÉR L            HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288880               R MÛA. OLLÓTAK PATIO HKS Z  FEHÉR R            HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288875               R MÛA. OLLÓTAK PATIO HKS Z  FEHÉR L            HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 288880               L MÛA. OLLÓTAK PATIO HKS Z  FEHÉR R            HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 288881               L MÛA. OLLÓTAK PATIO HKS Z  FEKETE L           HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288882               R MÛA. OLLÓTAK PATIO HKS Z  FEKETE R           HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288881               R MÛA. OLLÓTAK PATIO HKS Z  FEKETE L           HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 288882               L MÛA. OLLÓTAK PATIO HKS Z  FEKETE R           HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 288881               L MÛA. OLLÓTAK PATIO HKS Z  FEKETE L           HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288882               R MÛA. OLLÓTAK PATIO HKS Z  FEKETE R           HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288881               R MÛA. OLLÓTAK PATIO HKS Z  FEKETE L           HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 288882               L MÛA. OLLÓTAK PATIO HKS Z  FEKETE R           HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 288883               L MÛA. OLLÓTAK PATIO HKS Z  EZÜSTSZÜRKE L      HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288884               R MÛA. OLLÓTAK PATIO HKS Z  EZÜSTSZÜRKE R      HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    IGAZ    IGAZ    HAMIS   HAMIS
+2 288883               R MÛA. OLLÓTAK PATIO HKS Z  EZÜSTSZÜRKE L      HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 288884               L MÛA. OLLÓTAK PATIO HKS Z  EZÜSTSZÜRKE R      HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+2 245500                 ZÁRHOSSZABBÍTÓ Z NT 250 MM                   HAMIS   HAMIS   HAMIS   HAMIS        1       0       1851    2000    1800    2400    M319744                 HAMIS   IGAZ    IGAZ    HAMIS   HAMIS
+2 245500                 ZÁRHOSSZABBÍTÓ Z NT 250 MM                   HAMIS   HAMIS   HAMIS   HAMIS        1       0       1851    2000    1800    2400    M319744                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 259950  .N172A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D25 .N172A08216     HAMIS   IGAZ    HAMIS   HAMIS   25   2       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259952  .N172A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D25 .N172A09206     HAMIS   IGAZ    HAMIS   HAMIS   25   2       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259954  .N172A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D25 .N172A10216     HAMIS   IGAZ    HAMIS   HAMIS   25   3       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259956  .N172A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D25 .N172A11216     HAMIS   IGAZ    HAMIS   HAMIS   25   3       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259958  .N173A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D30 .N173A08216     HAMIS   IGAZ    HAMIS   HAMIS   30   2       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259960  .N173A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D30 .N173A09206     HAMIS   IGAZ    HAMIS   HAMIS   30   2       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259962  .N173A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D30 .N173A10216     HAMIS   IGAZ    HAMIS   HAMIS   30   3       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259964  .N173A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D30 .N173A11216     HAMIS   IGAZ    HAMIS   HAMIS   30   3       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259966                 B-NY.RÚDZ.K 1690 ZÁRH.2E D35                 HAMIS   IGAZ    HAMIS   HAMIS   35   2       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259968  .N174A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D35 .N174A09206     HAMIS   IGAZ    HAMIS   HAMIS   35   2       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259970  .N174A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D35 .N174A10216     HAMIS   IGAZ    HAMIS   HAMIS   35   3       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259972                 B-NY.RÚDZ.K 2290 ZÁRH.4E D35                 HAMIS   IGAZ    HAMIS   HAMIS   35   3       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259974                 B-NY.RÚDZ.K 1690 ZÁRH.2E D40                 HAMIS   IGAZ    HAMIS   HAMIS   40   2       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259976  .N175A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D40 .N175A09206     HAMIS   IGAZ    HAMIS   HAMIS   40   2       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259978  .N175A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D40 .N175A10216     HAMIS   IGAZ    HAMIS   HAMIS   40   3       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259980  .N175A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D40 .N175A11216     HAMIS   IGAZ    HAMIS   HAMIS   40   3       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259982  .N176A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D45 .N176A08216     HAMIS   IGAZ    HAMIS   HAMIS   45   2       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259984  .N176A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D45 .N176A09206     HAMIS   IGAZ    HAMIS   HAMIS   45   2       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259986  .N176A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D45 .N176A10216     HAMIS   IGAZ    HAMIS   HAMIS   45   3       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259988  .N176A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D45 .N176A11216     HAMIS   IGAZ    HAMIS   HAMIS   45   3       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259990  .N177A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D50 .N177A08216     HAMIS   IGAZ    HAMIS   HAMIS   50   2       0       600     1650    1601    1800    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259992  .N177A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D50 .N177A09206     HAMIS   IGAZ    HAMIS   HAMIS   50   2       0       600     1650    1801    2000    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259994  .N177A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D50 .N177A10216     HAMIS   IGAZ    HAMIS   HAMIS   50   3       0       600     1650    2001    2200    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259996  .N177A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D50 .N177A11216     HAMIS   IGAZ    HAMIS   HAMIS   50   3       0       600     1650    2201    2400    M319744                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259950  .N172A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D25 .N172A08216     HAMIS   HAMIS   IGAZ    HAMIS   25   2       0       600     1650    1601    1800    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259952  .N172A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D25 .N172A09206     HAMIS   HAMIS   IGAZ    HAMIS   25   2       0       600     1650    1801    2000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259954  .N172A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D25 .N172A10216     HAMIS   HAMIS   IGAZ    HAMIS   25   3       0       600     1650    2001    2200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259956  .N172A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D25 .N172A11216     HAMIS   HAMIS   IGAZ    HAMIS   25   3       0       600     1650    2201    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259958  .N173A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D30 .N173A08216     HAMIS   HAMIS   IGAZ    HAMIS   30   2       0       600     1650    1601    1800    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259960  .N173A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D30 .N173A09206     HAMIS   HAMIS   IGAZ    HAMIS   30   2       0       600     1650    1801    2000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259962  .N173A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D30 .N173A10216     HAMIS   HAMIS   IGAZ    HAMIS   30   3       0       600     1650    2001    2200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259964  .N173A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D30 .N173A11216     HAMIS   HAMIS   IGAZ    HAMIS   30   3       0       600     1650    2201    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259966                 B-NY.RÚDZ.K 1690 ZÁRH.2E D35                 HAMIS   HAMIS   IGAZ    HAMIS   35   2       0       600     1650    1601    1800    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259968  .N174A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D35 .N174A09206     HAMIS   HAMIS   IGAZ    HAMIS   35   2       0       600     1650    1801    2000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259970  .N174A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D35 .N174A10216     HAMIS   HAMIS   IGAZ    HAMIS   35   3       0       600     1650    2001    2200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259972                 B-NY.RÚDZ.K 2290 ZÁRH.4E D35                 HAMIS   HAMIS   IGAZ    HAMIS   35   3       0       600     1650    2201    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259974                 B-NY.RÚDZ.K 1690 ZÁRH.2E D40                 HAMIS   HAMIS   IGAZ    HAMIS   40   2       0       600     1650    1601    1800    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259976  .N175A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D40 .N175A09206     HAMIS   HAMIS   IGAZ    HAMIS   40   2       0       600     1650    1801    2000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259978  .N175A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D40 .N175A10216     HAMIS   HAMIS   IGAZ    HAMIS   40   3       0       600     1650    2001    2200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259980  .N175A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D40 .N175A11216     HAMIS   HAMIS   IGAZ    HAMIS   40   3       0       600     1650    2201    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259982  .N176A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D45 .N176A08216     HAMIS   HAMIS   IGAZ    HAMIS   45   2       0       600     1650    1601    1800    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259984  .N176A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D45 .N176A09206     HAMIS   HAMIS   IGAZ    HAMIS   45   2       0       600     1650    1801    2000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259986  .N176A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D45 .N176A10216     HAMIS   HAMIS   IGAZ    HAMIS   45   3       0       600     1650    2001    2200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259988  .N176A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D45 .N176A11216     HAMIS   HAMIS   IGAZ    HAMIS   45   3       0       600     1650    2201    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259990  .N177A08216    B-NY.RÚDZ.K 1690 ZÁRH.2E D50 .N177A08216     HAMIS   HAMIS   IGAZ    HAMIS   50   2       0       600     1650    1601    1800    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259992  .N177A09206    B-NY.RÚDZ.K 1890 ZÁRH.2E D50 .N177A09206     HAMIS   HAMIS   IGAZ    HAMIS   50   2       0       600     1650    1801    2000    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259994  .N177A10216    B-NY.RÚDZ.K 2090 ZÁRH.3E D50 .N177A10216     HAMIS   HAMIS   IGAZ    HAMIS   50   3       0       600     1650    2001    2200    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 259996  .N177A11216    B-NY.RÚDZ.K 2290 ZÁRH.3E D50 .N177A11216     HAMIS   HAMIS   IGAZ    HAMIS   50   3       0       600     1650    2201    2400    M260359                 HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 228296  .K060B10521  g ROTOLINE GARN.  BRONZ        .K060B10521     HAMIS   IGAZ    HAMIS   HAMIS     b  0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 228236  .K060A10701  g ROTOLINE GARN.  FEHÉR.       .K060A10701     HAMIS   IGAZ    HAMIS   HAMIS     f  0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 228292               g ROTOLINE KILNCSGARN  R011                    HAMIS   IGAZ    HAMIS   HAMIS     ne 0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 228236  .K060A10701  g ROTOLINE GARN.  FEHÉR.       .K060A10701     HAMIS   IGAZ    HAMIS   HAMIS     nsz0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 228296  .K060B10521  g ROTOLINE GARN.  BRONZ        .K060B10521     HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 228236  .K060A10701  g ROTOLINE GARN.  FEHÉR.       .K060A10701     HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 228292               g ROTOLINE KILNCSGARN  R011                    HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 228236  .K060A10701  g ROTOLINE GARN.  FEHÉR.       .K060A10701     HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 211597  .L305A15005  g PATIO KILINCS K.BRONZ L305A15005    G01D     HAMIS   HAMIS   IGAZ    HAMIS     b  0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 211596  .L305A17000  g PATIO KILINCS  FEHÉR L305A17000    .G00D     HAMIS   HAMIS   IGAZ    HAMIS     f  0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 211598               g ROTOLINE KIL. R01.1            .G02D         HAMIS   HAMIS   IGAZ    HAMIS     ne 0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 211596  .L305A17000  g PATIO KILINCS  FEHÉR L305A17000    .G00D     HAMIS   HAMIS   IGAZ    HAMIS     nsz0       0       600     1650    1601    2400    M319744                 IGAZ    HAMIS   HAMIS   HAMIS   HAMIS
+1 245494                 RÚDZÁR Z NT 30 D. 1800-2000 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   30   2       0       720     2000    1800    2000    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 245495                 RÚDZÁR Z NT 30 D. 2001-2200 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   30   2       0       720     2000    2001    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 245494                 RÚDZÁR Z NT 30 D. 1800-2000 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   30   2       0       720     2000    1800    2000    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 245495                 RÚDZÁR Z NT 30 D. 2001-2200 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   30   2       0       720     2000    2001    2400    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 245496                 RÚDZÁR Z NT 40 D. 1800-2000 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   40   2       0       720     2000    1800    2000    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 245497                 RÚDZÁR Z NT 40 D. 2001-2200 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   40   2       0       720     2000    2001    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 245496                 RÚDZÁR Z NT 40 D. 1800-2000 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   40   2       0       720     2000    1800    2000    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 245497                 RÚDZÁR Z NT 40 D. 2001-2200 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   40   2       0       720     2000    2001    2400    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 328808                 RÚDZÁR Z NT 50 D. 1800-2000 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   50   2       0       720     2000    1800    2000    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 328810                 RÚDZÁR Z NT 50 D. 2001-2200 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   50   2       0       720     2000    2001    2400    M319744                 HAMIS   IGAZ    HAMIS   HAMIS   HAMIS
+1 328808                 RÚDZÁR Z NT 50 D. 1800-2000 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   50   2       0       720     2000    1800    2000    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 328810                 RÚDZÁR Z NT 50 D. 2001-2200 MM ABS. KST      HAMIS   HAMIS   HAMIS   HAMIS   50   2       0       720     2000    2001    2400    M260359                 HAMIS   HAMIS   IGAZ    HAMIS   HAMIS
+1 494487  t            g HKS Z Rotoline garnitúra cilinderes natu     HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 494488               g PATIO Z  R053 Kilincs garnitúra              HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 494490               g HKS Z Rotoline garnitúra cilinderes fehé     HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 494490               g HKS Z Rotoline garnitúra cilinderes fehé     HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    IGAZ    HAMIS   HAMIS   HAMIS
+1 494487  t            g HKS Z Rotoline garnitúra cilinderes natu     HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 494488               g PATIO Z  R053 Kilincs garnitúra              HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 494490               g HKS Z Rotoline garnitúra cilinderes fehé     HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 494490               g HKS Z Rotoline garnitúra cilinderes fehé     HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 211604               g ROTOLINE KILINCS Z R01.1NATUREZÜST .G14D     HAMIS   HAMIS   HAMIS   HAMIS     ne 0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 211601               g HKS 150Z KIL.  R05.3 KÖZÉPBRONZ   .G11D      HAMIS   HAMIS   HAMIS   HAMIS     b  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 211600               g HKS 150Z KILINCS  R07.2 FEHÉR      .G10D     HAMIS   HAMIS   HAMIS   HAMIS     f  0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 211600               g HKS 150Z KILINCS  R07.2 FEHÉR      .G10D     HAMIS   HAMIS   HAMIS   HAMIS     nsz0       0       720     2000    1800    2400                            IGAZ    HAMIS   IGAZ    HAMIS   HAMIS
+1 349608                 Roto cilinder  S6 40x45 nikkelezett          HAMIS   IGAZ    IGAZ    HAMIS     c  0       0       600     1650    1601    2400                            HAMIS   HAMIS   HAMIS   HAMIS   HAMIS
+1 349608                 Roto cilinder  S6 40x45 nikkelezett          HAMIS   HAMIS   HAMIS   HAMIS     c  0       0       720     2000    1800    2400                            HAMIS   IGAZ    IGAZ    HAMIS   HAMIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
