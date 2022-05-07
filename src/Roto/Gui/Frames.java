@@ -3125,11 +3125,9 @@ public class Frames extends JInternalFrame implements InternalFrameListener, Act
         content.append("Version: " + swc.version + "\n\n");
         content.append("This program was developed by\n");
         content.append("Viktor Kadar\n");
-        content.append("and\n");
-        content.append("Gyorgy Kadar\n\n");
         content.append("If you have any problems please \n");
         content.append("send your email to\n");
-        content.append("gyorgy.kadar@roto-frank.com\n");
+        content.append("email\n");
 
         jtAbout.setText(content.toString());
 
